@@ -11,7 +11,7 @@ the link of video tutorial:
 https://www.bilibili.com/video/BV17F411T7Ao/?p=51&share_source=copy_web&vd_source=010bdfade6231fc2f47331b6e5fd8fb2
 
 ## day03: 运算符
-[] (java_exercise/basic_code/day03/day03/src/math/assignment_operator.java)
+[1] (/basic_code/day03/day03/src/math/assignment_operator.java)
 
 
 
