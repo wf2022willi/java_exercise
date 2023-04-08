@@ -13,8 +13,13 @@ https://www.bilibili.com/video/BV17F411T7Ao/?p=51&share_source=copy_web&vd_sourc
 ## day03: 
 [运算符](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day03/day03/src)
 
+## day04:
+for if while switch循环 [demo](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day_04/src/demos) [exercises](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day_04/src/exercises)
 
+## day05:
+array, 无限循环, if+continue循环语句 [demos](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day05/src/demo)  [exercises](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day05/src/exercise)
 
-
+## day06:
+method方法 [demos](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day06/src)   [exercises](https://github.com/wf2022willi/java_exercise/tree/main/basic_code/day06/src/exercise)
 
 
